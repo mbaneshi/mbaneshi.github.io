@@ -174,6 +174,12 @@ body {
   text-decoration: underline;
 }
 
+.doc-link {
+  font-size: 0.8rem;
+  opacity: 0.85;
+  margin-left: 0.25rem;
+}
+
 @media (max-width: 640px) {
   .card-grid {
     grid-template-columns: 1fr;
